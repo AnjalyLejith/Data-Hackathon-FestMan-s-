@@ -1,4 +1,4 @@
-# Data-Hackathon-FestMans
+# Data-Hackathon-FestMans Power BI Dashboard
 
 Help the Marketing Team understand the Customer Spending Patterns and Response to Campaign Deals and recommend appropriate marketing strategies that will help the Company maximize their sales.
 
